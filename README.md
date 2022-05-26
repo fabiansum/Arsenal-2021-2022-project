@@ -1,2 +1,2 @@
-# Arsenal_21-22_project
- Arsenal 2021-2022 Stats Analysis and visualization
+# Project Overview
+ Web scraping project of Arsenal players' stats in EPL 2021/2022 season.
